@@ -1,2 +1,3 @@
 # jardim-matematico
-Projeto realizado afim de estudar Machine Learn
+
+Projeto realizado com a finalidade aprimorar minhas habilidades em Aprendizado de Máquinas.
